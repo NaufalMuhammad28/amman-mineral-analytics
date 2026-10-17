@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Header Banner AMNT -->
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=PT%20AMMAN%20MINERAL%20(AMNT)&text2=Enterprise%20Operations%20%26%20Data%20Intelligence%20Center&width=850&height=200&theme=dark" width="100%" alt="Amman Header" />
+  <!-- Header Banner Ombak Tembaga/Emas (100% Stabil & Anti-Error) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:451a03,50:92400e,100:b45309&height=220&section=header&text=PT%20AMMAN%20MINERAL%20(AMNT)&fontSize=36&fontAlignY=38&desc=Enterprise%20Operations%20%26%20Data%20Intelligence%20Center&descSize=15&descAlignY=62&fontColor=ffffff&stroke=f59e0b&strokeWidth=1" width="100%" />
 
-  <br>
+  <br><br>
 
   <p>
     <img src="https://img.shields.io/badge/Status-Live_Dashboard-059669?style=for-the-badge" />
@@ -43,8 +43,8 @@ Platform ini merangkum dinamika industri ekstraktif Indonesia—mulai dari era N
 ---
 
 <div align="center">
-  <!-- Footer Ombak -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,14,20&height=80&section=footer" width="100%" />
+  <!-- Footer Ombak Tembaga -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:451a03,50:92400e,100:b45309&height=80&section=footer" width="100%" />
 
   <sub><i>Dikembangkan oleh <b>M. Naufal Zamani</b> • Master Student in Statistics at ITS • © 2026</i></sub>
 </div>
