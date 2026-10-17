@@ -1,7 +1,9 @@
 <div align="center">
 
-  <h1>⛏️ PT Amman Mineral Nusa Tenggara (AMNT)</h1>
-  <p><b>Enterprise Operations & Data Intelligence Center • Sumbawa Barat (KSB), NTB</b></p>
+  <!-- Header Banner AMNT -->
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=PT%20AMMAN%20MINERAL%20(AMNT)&text2=Enterprise%20Operations%20%26%20Data%20Intelligence%20Center&width=850&height=200&theme=dark" width="100%" alt="Amman Header" />
+
+  <br>
 
   <p>
     <img src="https://img.shields.io/badge/Status-Live_Dashboard-059669?style=for-the-badge" />
@@ -10,7 +12,7 @@
   </p>
 
   <p>
-    <a href="https://NaufalMuhammad28.github.io/amman-mineral-analytics" target="_blank">
+    <a href="https://NaufalMuhammad28.github.io/amman-mineral-analytics/" target="_blank">
       <img src="https://img.shields.io/badge/🔗_BUKA_DASHBOARD_LIVE-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" />
     </a>
   </p>
@@ -19,15 +21,30 @@
 
 ---
 
-### 📊 About The Project
-An investigative operations and data intelligence dashboard monitoring PT Amman Mineral Nusa Tenggara (AMNT) operations at Batu Hijau, Sumbawa Barat. This platform integrates historical corporate milestones (from Newmont era to national sovereignty), operational performance metrics, ESG standards, and spatial logistics data.
+### ⛏️ Tentang Proyek Ini
+**PT Amman Mineral Nusa Tenggara (AMNT) Enterprise Operations & Data Intelligence Center** adalah platform analitik dan investigasi operasional interaktif yang membedah aktivitas tambang terbuka Batu Hijau di Kabupaten Sumbawa Barat (KSB), Nusa Tenggara Barat.
 
-### 🔍 Key Features
-- **Investigative Profile & Reports:** Comprehensive timeline of corporate evolution, divestment milestones, and downstream smelting (Hilirisasi) projects.
-- **Geospatial Satellite Portal:** Spatial intelligence integration mapping the operational concessions and surrounding KSB regions.
-- **Logistics & Analytics:** Real-time data visualization connecting industrial output with regional economic metrics.
+Platform ini merangkum dinamika industri ekstraktif Indonesia—mulai dari era Newmont, proses arbitrase dan divestasi, kedaulatan nasional (AMMN), proyek hilirisasi smelter senilai Rp21 Triliun di Benete/Maluk, hingga data ketenagakerjaan dan komitmen ESG.
 
 ---
+
+### 🔍 Fitur Utama Dashboard
+- **Profil & Laporan Investigatif:** Linimasa korporasi mendalam dari era asing hingga kedaulatan modal domestik.
+- **Pusat Peta Geospasial Satelit:** Pemetaan wilayah konsesi tambang, eksplorasi Blok Elang, dan area pasca-tambang.
+- **Visualisasi Analitik & Logistik:** Grafik operasional, kapasitas smelter, serta penyerapan tenaga kerja lokal ber-KTP KSB/NTB.
+
+---
+
+### 🛠️ Teknologi & Tools
+- **Frontend & UI:** `HTML5`, `CSS3`, `JavaScript`, `Tailwind / Custom CSS`
+- **Deployment:** `GitHub Pages`
+- **Domain Analisis:** `Mining Intelligence`, `Business Operations`, `Corporate History`
+
+---
+
 <div align="center">
-  <sub><i>Developed by M. Naufal Zamani • Master Student in Statistics at ITS</i></sub>
+  <!-- Footer Ombak -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,14,20&height=80&section=footer" width="100%" />
+
+  <sub><i>Dikembangkan oleh <b>M. Naufal Zamani</b> • Master Student in Statistics at ITS • © 2026</i></sub>
 </div>
